@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+best_model.h5
+saved_clean_data.pkl
+testing-data.pkl
+total-dataset.pkl
+training-data.pkl
